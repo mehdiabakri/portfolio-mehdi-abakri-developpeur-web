@@ -56,13 +56,13 @@ const Hero: React.FC = () => {
       <div className="w-full flex flex-col md:flex-row items-center justify-between z-10">
         {/* PARTIE GAUCHE */}
         <div className="flex-1 flex flex-col items-start w-full mt-20 md:mt-0">
-          <h1 className="text-5xl md:text-5xl font-bold text-slate-100 mb-20">
+          <h1 className="text-5xl md:text-3xl font-bold text-slate-100 mb-20">
             👋 Bonjour, je m'appelle {}
             <span className="text-cyan-400">Mehdi</span>
           </h1>
 
           {/* Titre animé */}
-          <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-400 mb-6 h-25 md:h-35 lg:h-40">
+          <h2 className="text-2xl md:text-2xl lg:text-4xl font-bold text-slate-400 mb-1 h-25 md:h-35 lg:h-40">
             Je développe des <br /> interfaces{" "}
             <span className="text-cyan-400 border-r-2 border-cyan-400 pr-1 animate-pulse">
               {currentText}
