@@ -18,8 +18,7 @@ export const projects: Project[] = [
     title: "Portfolio 2025",
     description: "Mon portfolio personnel développé avec React, TypeScript et le nouveau React Compiler pour une performance optimale.",
     technologies: ["React 19", "TypeScript", "Tailwind CSS", "Vite"],
-    githubUrl: "https://github.com/ton-pseudo/mon-portfolio",
-    liveUrl: "https://ton-portfolio.com",
+    liveUrl: "https://mehdiabakri.github.io/portfolio-mehdi-abakri-developpeur-web/",
     image: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?q=80&w=800&auto=format&fit=crop"
   },
   {

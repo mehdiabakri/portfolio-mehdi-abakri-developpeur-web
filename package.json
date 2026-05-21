@@ -2,7 +2,7 @@
   "name": "portfolio",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://mehdiabakri.github.io/portfolio",
+  "homepage": "https://mehdiabakri.github.io/portfolio-mehdi-abakri-developpeur-web",
   "type": "module",
   "scripts": {
     "dev": "vite",
